@@ -6,10 +6,10 @@ Great for quickly generating HTML select options and other content within your a
 Having to create lists can be tedious at the best of times,
 the List Library is an ongoing accumulation of common & un-common lists that I aim to keep in a single library so that I never have to build the same list twice.
 
-Feel free to use any of the lists provided in you own applications or add your own lists to the library.
+Feel free to use any of the lists provided in your own applications or add your own lists to the library.
 
 ## Contributions
-The more resources the better so If you have additional lists that you can contribute please fork this repo and add your list.
+The more resources the better, so If you have additional lists that you can contribute please fork this repo and add your list.
 
 **Contribution guidelines**
 1. Each list to be contained inside a method that returns an array
