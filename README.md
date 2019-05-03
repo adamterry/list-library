@@ -29,4 +29,4 @@ The more resources the better so If you have additional lists that you can contr
 ## Examples
 * example-color.php - Code example using the Colors class to create HTML color & hex tables
 * example-select.php - Code example of how to use the library to easily create HTML select options
-* example-cars-with-logos - Code example of how to use the library to pull in images via HTML <img> tags
+* example-cars-with-logos - Code example of how to use the library to pull in images via HTML `<img>` tags
