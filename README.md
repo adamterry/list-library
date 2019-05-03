@@ -12,11 +12,11 @@ Feel free to use any of the lists provided in you own applications or add your o
 The more resources the better so If you have additional lists that you can contribute please fork this repo and add your list.
 
 **Contribution guidelines**
-1 Each list to be contained inside a method that returns an array
-2 Methods are to be grouped inside a class with similar lists eg: a list containing each state of a particular country should go inside the *States* class
-3 If any of the existing classes do not suit your list, you may create a new one. 
+1. Each list to be contained inside a method that returns an array
+2. Methods are to be grouped inside a class with similar lists eg: a list containing each state of a particular country should go inside the *States* class
+3. If any of the existing classes do not suit your list, you may create a new one. 
   Your new class name **must** start with a capital letter (Class.php) and the filename **must** match the class name
-4 All class files must be .php  
+4. All class files must be .php  
 
 ## Current lists
 * HTML Color names with hexadecimal values
