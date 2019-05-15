@@ -3,7 +3,7 @@
  *  Return a list of vehicle manufacturers.
  *  Class contains individual methods for each type of vehicle.
  * 
- *  Use these methods to quickly pull an associative array of 
+ *  Use these methods to quickly pull an array of 
  *  vehicle manufacturers into your application.
  * 
  *  Current vehicles:
