@@ -18,7 +18,7 @@ class Vehicles
      *  Return a list of Car manufacturers
      * 
      *  @author Adam Terry <adam@advite.com.au>
-     *  @return array $carManufacturers
+     *  @return array $cars
      */
     public function cars(){
          
@@ -180,7 +180,7 @@ class Vehicles
      *  Return a list of Motorcycle manufacturers
      * 
      *  @author Adam Terry <adam@advite.com.au>
-     *  @return array $motorcycleManufacturers
+     *  @return array $motorcycles
      */
     public function motorcycles(){
 
